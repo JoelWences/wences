@@ -1,0 +1,22 @@
+#principal{
+    border: solid 4px rgb(29, 37, 35);
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+fieldset{
+    margin-bottom: 20px;
+}
+ legend{
+     border: solid 1px rgb(81, 70, 230);
+     padding: 5px;
+     font-weight: bold;
+     border-radius: 20px;
+     background: rgb(100, 123, 131);
+ }
+ #mifoto{
+     margin: 5px;
+     border: solid 4px black;
+ }
+ 
+ 
